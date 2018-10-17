@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 1.5.1
+  * Syntax improvements
+  * Removed old Swift 4.2 migration code
+
+## Version 1.5.0
+  * Support for iOS 12
+
 ## Version 1.4.0
   * Support for iOS 11
 
